@@ -1,3 +1,8 @@
+---
+title: "My first blog post"
+date: 2021-05-24
+---
+
 Hello world! 
 My name is Linda. It is spelled "eLL I eNN De A" ;) 
 I'm a sewing pattern designer, in this context I've worked with Inkscape (similar to Illustrator) a lot.
